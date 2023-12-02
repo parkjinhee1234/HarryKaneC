@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\새 폴더\Class2th\bin\Debug\Class2th.exe.config
+C:\Users\Administrator\Desktop\새 폴더\Class2th\bin\Debug\Class2th.exe
+C:\Users\Administrator\Desktop\새 폴더\Class2th\bin\Debug\Class2th.pdb
+C:\Users\Administrator\Desktop\새 폴더\Class2th\obj\Debug\Class2th.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\새 폴더\Class2th\obj\Debug\Class2th.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\새 폴더\Class2th\obj\Debug\Class2th.exe
+C:\Users\Administrator\Desktop\새 폴더\Class2th\obj\Debug\Class2th.pdb
