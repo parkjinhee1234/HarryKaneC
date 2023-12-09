@@ -39,7 +39,7 @@ namespace Class1th
             //ex) int table = 200;
 
             // 5. 변수의 이름에 공백이 포함될 수 없습니다.
-            int count down = 5;
+            int count_down = 5;
 
             // 6. 변수의 이름은 숫자로 시작 할 수 없으며, 컴파일하는
             //    동안 어휘 분석에서 역 추적을 피할 수 있으므로,
