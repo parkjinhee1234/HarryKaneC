@@ -12,3 +12,10 @@ C:\Users\Administrator\Desktop\HarryKaneC\HarryKaneC\Class2th\obj\Debug\Class2th
 C:\Users\Administrator\Desktop\HarryKaneC\HarryKaneC\Class2th\obj\Debug\Class2th.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\HarryKaneC\HarryKaneC\Class2th\obj\Debug\Class2th.exe
 C:\Users\Administrator\Desktop\HarryKaneC\HarryKaneC\Class2th\obj\Debug\Class2th.pdb
+C:\Users\Administrator\Desktop\HarryKaneC\Class2th\bin\Debug\Class2th.exe.config
+C:\Users\Administrator\Desktop\HarryKaneC\Class2th\bin\Debug\Class2th.exe
+C:\Users\Administrator\Desktop\HarryKaneC\Class2th\bin\Debug\Class2th.pdb
+C:\Users\Administrator\Desktop\HarryKaneC\Class2th\obj\Debug\Class2th.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HarryKaneC\Class2th\obj\Debug\Class2th.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HarryKaneC\Class2th\obj\Debug\Class2th.exe
+C:\Users\Administrator\Desktop\HarryKaneC\Class2th\obj\Debug\Class2th.pdb
